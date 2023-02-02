@@ -1,6 +1,6 @@
 <?php
 
-    // Our connection
+    // Our super cool connection
     $conn = mysqli_connect("localhost", "root", "", "sakila", 3306);
 
     // Caching
